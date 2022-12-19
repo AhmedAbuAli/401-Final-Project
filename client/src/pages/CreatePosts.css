@@ -1,0 +1,59 @@
+.createPostPage {
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-color: white;
+}
+
+.formContainer {
+    width: 50%;
+    margin: auto;
+    margin-top: 5vh;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.formInput {
+    margin: auto;
+    background-color: white;
+    border: none;
+    width: 50%;
+    border: 3px solid black;
+    padding: 25px 20px;
+    display: block;
+    color: black;
+    border-radius: 10px;
+}
+
+
+.formLabel {
+    margin: auto;
+    color: black;
+    margin-top: 3vh;
+    font-size: 2rem;
+
+}
+
+.formButton {
+    margin: auto;
+    margin-top: 3vh;
+    padding: 10px;
+    border-radius: 15px;
+    transition: all .3s;
+    background-color: black;
+    color: white;
+    border: none;
+    border: 3px solid white;
+}
+
+.formButton:hover {
+    transform: scale(1.3);
+}
+
+.erorrM {
+    color: red;
+    font-weight: bold;
+    display: block;
+   /* margin-left: -5%;*/
+}

@@ -1,0 +1,42 @@
+#loginPage {
+    background-color: white;
+    height: 100vh ;
+
+}
+
+#loginForm {
+    width: 50%;
+    margin: auto;
+    padding: 20px 50px;
+}
+
+#header {
+    width: 50%;
+    margin-left: 25% ;
+    padding: 20px 50px;
+    margin-top: -103px; 
+    margin-left: 30% ;
+        
+
+}
+
+#header.h1 {
+    display: inline-block;
+    margin-left: 20%;
+    background-color: aqua;
+}
+
+#header.h4 {
+    display: inline-block;
+}
+
+#logo{
+    width: 5%;
+    height: 8vh;
+    display: inline-block;
+    margin-left: 22%;
+    margin-top: 5%;
+    margin-left: 27%;
+}
+
+
